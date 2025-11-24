@@ -1,0 +1,5 @@
+{
+  "name": "MediLex AI - Medical Terminology Explorer",
+  "description": "A sleek, modern medical terminology explorer that uses AI to provide simple, scientific explanations, illustrations from reliable sources, and an interactive chat for follow-up questions. Supports English and Arabic.",
+  "requestFramePermissions": []
+}
